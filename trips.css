@@ -1,5 +1,5 @@
 body {
-      background-color: #33CCFF;
+      background-color: blue;
       font-family: Arial, Helvetica, sans-serif;
   }
   
@@ -13,11 +13,8 @@ header {
 nav {
       position: fixed;
       margin-bottom: 0px;
-      background-color: #FF9900;
+      background-color: white;
       width: 100%;
-}
-nav a {
-      margin-bottom: 0px;
 }
 
 section.left {
