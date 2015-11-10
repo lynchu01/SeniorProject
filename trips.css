@@ -17,19 +17,3 @@ nav {
       width: 100%;
 }
 
-section.left {
-      float: left;
-      width: 50%;
-      background-color: #33CCFF;
-      height: 750px;
-}
-section.right {
-      float: left;
-      width: 50%;
-      background-color: #FFCCFF;
-      height: 750px;
-}
-footer {
-      clear: both;
-      background-color: #99FF66;
-}
